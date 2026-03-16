@@ -1,0 +1,4 @@
+The Prince,Niccolò Machiavelli,1532,1
+Anna Karenina,Lev Talstoy,1878,2
+Istorie Fiorentine,Niccolò Machiavelli,1532,3
+Gulestan-i Irem,Abbasqulu Aga Bakixanov,1926,4
